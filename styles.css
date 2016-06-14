@@ -1,0 +1,17 @@
+form {
+    background-color: darkgray;
+    padding: 60px;
+}
+
+legend {
+    color: red;
+}
+
+label {
+    color: blue;
+}
+
+button {
+    background-color: blue;
+    color: white;
+}
